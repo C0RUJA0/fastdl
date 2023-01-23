@@ -1,6 +1,7 @@
 "LightmappedGeneric"
 {
 "$basetexture" "decals\custom\hyfix_baixo"
+"$basetexturetransform"	"center 0 0 scale 1 2 rotate 180 translate 0 0"
 "$translucent" 1
 "$decal" 1
 "$decalscale" 0.25
