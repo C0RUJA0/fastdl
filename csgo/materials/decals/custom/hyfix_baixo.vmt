@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-"$basetexture" "decals\custom\hyfix_baixo"
-"$translucent" 1
-"$decal" 1
-"$basetexturetransform" "center .5 .5 scale .25 .25 rotate 180 translate 0 0"
-"$surfaceprop" "Default"
-"$envmaptint" "[.3 .3 .3]"
-}
